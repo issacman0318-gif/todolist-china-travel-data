@@ -1,0 +1,38 @@
+[
+  {
+    "city": "呼和浩特",
+    "area_or_station": "呼和浩特東站周邊",
+    "verified_connection": "呼和浩特地鐵 1 號線與鐵路",
+    "planning_use_case": "隔日從東站離開",
+    "check_before_booking": "核對車票終到站及酒店到實際候車入口的步行動線。",
+    "source_url": "https://www.hhhtmetro.com/site/train_time_index",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "呼和浩特",
+    "area_or_station": "新華廣場站區",
+    "verified_connection": "呼和浩特地鐵 1 號線",
+    "planning_use_case": "在市區移動",
+    "check_before_booking": "先查景點到新華廣場的路線，機場轉場後另查新機場接駁。",
+    "source_url": "https://www.hhhtmetro.com/site/train_time_index",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "包頭",
+    "area_or_station": "包頭市區鐵路住宿",
+    "verified_connection": "國鐵包頭方向",
+    "planning_use_case": "由呼和浩特或北京進出",
+    "check_before_booking": "按當日車票停站選區，分開核對包頭站與包頭東站，並確認酒店的末段交通。",
+    "source_url": "https://www.zxbq.gov.cn/zxbq/xwdt/zyxw/2026020313342590702/index.html",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "呼倫貝爾",
+    "area_or_station": "海拉爾站區",
+    "verified_connection": "國鐵海拉爾方向",
+    "planning_use_case": "草原遊前後的城市基地",
+    "check_before_booking": "確認活動的集合點與日期，交通班次及住宿各自核對。",
+    "source_url": "https://jtj.wuhan.gov.cn/jtzx/zwdt/202601/t20260126_2718571.shtml",
+    "checked_on": "2026-11-19"
+  }
+]

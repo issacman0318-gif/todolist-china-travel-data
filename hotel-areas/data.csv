@@ -1,0 +1,5 @@
+city,area_or_station,verified_connection,planning_use_case,check_before_booking,source_url,checked_on
+呼和浩特,呼和浩特東站周邊,呼和浩特地鐵 1 號線與鐵路,隔日從東站離開,核對車票終到站及酒店到實際候車入口的步行動線。,https://www.hhhtmetro.com/site/train_time_index,2026-11-19
+呼和浩特,新華廣場站區,呼和浩特地鐵 1 號線,在市區移動,先查景點到新華廣場的路線，機場轉場後另查新機場接駁。,https://www.hhhtmetro.com/site/train_time_index,2026-11-19
+包頭,包頭市區鐵路住宿,國鐵包頭方向,由呼和浩特或北京進出,按當日車票停站選區，分開核對包頭站與包頭東站，並確認酒店的末段交通。,https://www.zxbq.gov.cn/zxbq/xwdt/zyxw/2026020313342590702/index.html,2026-11-19
+呼倫貝爾,海拉爾站區,國鐵海拉爾方向,草原遊前後的城市基地,確認活動的集合點與日期，交通班次及住宿各自核對。,https://jtj.wuhan.gov.cn/jtzx/zwdt/202601/t20260126_2718571.shtml,2026-11-19
