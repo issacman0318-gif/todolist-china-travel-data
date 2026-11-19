@@ -18,6 +18,8 @@
 
 [下載 CSV](travel-data.csv)。欄位包括交通分類、站點、方式、行前查核事項、來源與核對日期。需要票價、班次或無障礙動線時，請在出發前查相應營運方。
 
+[機場轉場與行前選站簡報（Substack）](https://todolisttraveldata.substack.com/p/the-station-to-write-down-before)收錄呼和浩特機場轉場的去回程核對方法。
+
 ## 使用方式
 
 執行 `python3 plan.py "站區住宿"`，或省略條件列出全部。工具使用 Python 3 標準函式庫。
