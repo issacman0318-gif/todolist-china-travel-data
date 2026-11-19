@@ -30,5 +30,5 @@
 
 ## 延伸住宿攻略
 
-- [呼和浩特住宿區域](https://todolist-china.com/hohhot-hotels/)
-- [海拉爾住宿基地](https://todolist-china.com/hulunbuir-hailar-hotels/)
+- [呼和浩特住宿推薦](https://todolist-china.com/hohhot-hotels/)
+- [海拉爾住宿推薦](https://todolist-china.com/hulunbuir-hailar-hotels/)
